@@ -1,6 +1,6 @@
 {
   "name": "@nickames/react-flash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A flash component",
   "main": "./dist/index.js",
   "author": "nickames",
